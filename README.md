@@ -68,6 +68,3 @@ npm run dev
 - To add new node types, register them in `src/utils/nodeRegistry.ts` and create a corresponding component in `src/components/nodes/`.
 - All icons are from [Lucide React](https://lucide.dev/). You can swap or add icons as needed.
 - Styling is handled via Tailwind CSS utility classes.
-
-## 📝 License
-MIT
